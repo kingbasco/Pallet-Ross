@@ -1,0 +1,6 @@
+{
+  "name": "Pallet Ross - Marketplace for Masterpieces",
+  "description": "A place to display your masterpiece. Dynamic community where artists and buyers seamlessly merge to showcase, sell, and acquire art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
